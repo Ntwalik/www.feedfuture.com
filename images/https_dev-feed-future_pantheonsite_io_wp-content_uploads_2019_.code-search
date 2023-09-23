@@ -1,0 +1,11 @@
+# Query: linear-gradient(to right,rgba(0,14,41,0.87),
+# ContextLines: 1
+
+1 result - 1 file
+
+C:\Users\Rex\Pictures\kevin filess\web\project.html:
+  35  <style id="astra-theme-css-inline-css">
+  36  <style id="astra-theme-css-inline-css">
+  37: ⟪ 36697 characters skipped ⟫bove-footer-builder"]{display:grid;}}@media (max-width:544px){.ast-header-break-point .site-above-footer-wrap[data-section="section-above-footer-builder"]{display:grid;}}.site-footer{background-image:linear-gradient(to right,rgba(0,14,41,0.87),rgba(0,14,41,0.87)),url(rt);;background-repeat:repeat;background-position:center center;background-size:auto;background-attachment:scroll;}.ast-hfb-header .site-footer{padding-top:60px;padding-bottom:25px;padding-left:20px;padding-right:20px;}@media (max-width:921px){.ast-hfb-header .site-footer{padding-top:30px;}}@media (max-width:544px){.ast-hfb-header .site-footer{padding-top:15px;}}.site-primary-footer-wrap{padding-top:45px;padding-bottom:45px;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"]{background-color:;;background-image:none;;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"] .ast-builder-grid-row{max-width:1200px;margin-left:auto;margin-right:auto;}.site-primary-footer-wrap[data-section="section-primary-footer-builder"] .ast-builder-grid-row,.site-primary-footer-wrap[data-section="section-primary-foo
+  37  </style>
+  38  </style>
